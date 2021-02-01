@@ -30,6 +30,7 @@ description: |
 
 
 layout: stand
+chatroom: mautic
 logo: stands/mautic/logo.png
 new_this_year: |
 
