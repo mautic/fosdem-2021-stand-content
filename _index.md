@@ -14,7 +14,7 @@ description: |
     <p>Those people interested in becoming involved in a community with a vision to change the world should consider getting involved in Mautic. People are the priority. Equality is the goal.</p>
 
     <h2>What is Marketing Automation?</h2>
-    <div class="video" width="50%" style="float:left, padding-right:20px">
+    <div class="video" style="float: left;padding-right: 20px;">
     <video preload="none" controls="controls">
     <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
     </video>
@@ -127,7 +127,7 @@ showcase: |
         </li>
     <br/>
        <li>
-            ➡️ We are looking for <strong>React</strong> and <strong>Symfony</strong> developers in addition to folk with <strong>UI/UX expertise</strong> to help with our <a href="https://mautic.atlassian.net/wiki/spaces/MI/pages/324436029/Mautic+Next+Generation" target="_blank">Next Generation project</a> - we are in the early stages of planning a major re-write Mautic on API Platform / Symfony 5 with a React front-end, optimised for scale and usability.  Watch <a href="https://www.youtube.com/watch?v=A8iW7LbRqtA" target="_blank">Alan Hartless' talk</a> for more details.
+            ➡️ We are looking for <strong>Angular/React</strong> and <strong>Symfony</strong> developers in addition to folk with <strong>UI/UX expertise</strong> to help with our <a href="https://mautic.atlassian.net/wiki/spaces/MI/pages/324436029/Mautic+Next+Generation" target="_blank">Next Generation project</a> - we are in the early stages of planning a major re-write Mautic on API Platform / Symfony 5 with a React front-end, optimised for scale and usability.  Watch <a href="https://www.youtube.com/watch?v=A8iW7LbRqtA" target="_blank">Alan Hartless' talk</a> for more details.
         </li>
     </ul>
 ---
