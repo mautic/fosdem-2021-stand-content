@@ -14,7 +14,11 @@ description: |
     <p>Those people interested in becoming involved in a community with a vision to change the world should consider getting involved in Mautic. People are the priority. Equality is the goal.</p>
 
     <h2>What is Marketing Automation?</h2>
-     <a href="https://www.youtube.com/embed/yKgaIoElsWU" target="_blank"><img src="/stands/mautic/thumbnail.png" alt="Mautic Thumbnail" width="50%" style="float:left"/></a>
+    <div class="video" width="50%" style="float:left, padding-right:20px">
+    <video preload="none" controls="controls">
+    <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
+    </video>
+    </div>
     <p>The concept of marketing automation is not new, and the general idea of automated marketing is one which most are familiar with, though the terminology may be different.</p>
 
     <p>Here’s a very brief overview:</p>
