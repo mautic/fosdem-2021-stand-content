@@ -16,9 +16,9 @@ description: |
     <h2>What is Marketing Automation?</h2>
     <div class="video">
     <video preload="none" controls="controls" style="width: 50%;float: left;padding-right: 20px;">
+    <video poster="/stands/mautic/thumbnail.png">
     <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
-    </video>
-    <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
+    <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.webm" type="video/webm;">
     </video>
     </div>
     <p>The concept of marketing automation is not new, and the general idea of automated marketing is one which most are familiar with, though the terminology may be different.</p>
