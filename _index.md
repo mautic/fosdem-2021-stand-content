@@ -79,29 +79,28 @@ showcase: |
     <p>
     Come to our stand to meet the team behind Mautic and talk about marketing automation, open marketing, getting started with Mautic, developing and building integrations with Mautic and anything else you would like to chat about!<p>
 
-    <p>We will have community members who speak the following languages: 
-     <ul class="list-unstyled">
-            <li>🇬🇧 English - All day</li>
-            <li>🇩🇪 German - TBC</li>
-            <li>🇫🇷 French - TBC</li>
-            <li>🇧🇷 Portuguese - TBC</li>
-            <li>🇮🇳 Hindi - TBC</li>
-    </ul>    
-    </p>
-
     <h3>Our programme at FOSDEM:</h3>
     <ul class="list-unstyled">
         <li>
         <h4>Saturday</h4>
         <ul class="list-unstyled">
-            <li><b>Timings TBC</b>: We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!
+            <li><b>All Day</b>: We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!
             </li>
+    <li><b>1100-1200</b>: 🇬🇧 Norman Pracht - why and how agencies should use marketing automation</li>
+    <li><b>1300-1400</b>: 🇬🇧 Dries Buytaert - Built to Last: Growing Sustainable Open Source Communities</li>
+    <li><b>1400-1500</b>: 🇬🇧 Steve Robinson - Maximizing Evergreen Content with Mautic</li>
+    <li><b>1600-1700</b>: 🇩🇪 Florian Wessels, Leon-Elias Oltmanns and Lamin Njie - Mautic und TYPO3 - Eine unsichtbare Verbindung</li>
+    <li><b>1800-1900</b>: 🇩🇪 Ekke Guembel: Online + Offline = beste Erfolgsrate. Postkarten in Mautic-Kampagnen</li>
         </ul>
         </li>
         <li class="mt-2">
         <h4>Sunday</h4>
         <ul class="list-unstyled">
-            <li><b>Timings TBC</b>:  We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!</li>
+            <li><b>All Day</b>:  We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!</li>
+    <li><b>1100-1200</b>: 🇬🇧 József Keller - Be a Better Emailer</li>
+    <li><b>1300-1400</b>: 🇬🇧 Dominique De Cooman - Creating personalised digital experiences with Mautic</li>
+    <li><b>1600-1700</b>: 🇬🇧 Prateek Jain and Mohit Aghera - Building Personalised Chatbots With Mautic</li>
+    <li><b>1800-1900</b>: 🇬🇧 Lakshmi Narasimhan Parthasarathy & Jordan Ryan - High Availability Mautic</li>
         </ul>
         </li>
     </ul>
@@ -115,7 +114,7 @@ showcase: |
         </li>
     <br/>
         <li>
-            ➡️ Donate via <a href="https://opencollective.com/mautic/donate">Open Collective</a> or <a href="https://github.com/sponsors/mautic/">Github Sponsors from as little as $5
+            ➡️ Donate 💶 via <a href="https://opencollective.com/mautic/donate">Open Collective</a> or <a href="https://github.com/sponsors/mautic/">Github Sponsors from as little as $5
         </li>
     <br/>
         <li>
