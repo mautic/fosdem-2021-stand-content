@@ -14,8 +14,10 @@ description: |
     <p>Those people interested in becoming involved in a community with a vision to change the world should consider getting involved in Mautic. People are the priority. Equality is the goal.</p>
 
     <h2>What is Marketing Automation?</h2>
-    <div class="video" style="float: left;padding-right: 20px;">
-    <video preload="none" controls="controls">
+    <div class="video">
+    <video preload="none" controls="controls" style="width: 50%;float: left;padding-right: 20px;">
+    <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
+    </video>
     <source src="https://video.fosdem.org/2021/stands/mautic/mautic_video1.mp4" type="video/mp4;">
     </video>
     </div>
