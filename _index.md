@@ -39,39 +39,35 @@ chatroom: mautic
 logo: stands/mautic/logo.png
 new_this_year: |
 
-    Since FOSDEM 2020 Mautic managed to:
+    Since FOSDEM 2021 Mautic managed to:
 
     <ul>
         <li>
-            Run our first in-person <a href="https://www.mautic.org/blog/community/first-mautic-community-summit-a-great-success" target="_blank">community summit</a> at Contribution Day following DrupalCon Amsterdam 2020,
+           Held an online conference and our first ever in-person conference in <a href="https://www.mautic.org/blog/community/mautic-conference-europe-2021-our-first-person-conference" target="_blank">Hasselt, Belgium</a>,
         </li>
 
         <li>
-            Implement a <a href="https://www.mautic.org/about/governance" target="_blank">governance model</a> and build a structure of community-led teams who are driving the product and community forward,
+            Became a <a href="https://www.mautic.org/blog/community/mautic-authorized-cve-numbering-authority-cna" target="_blank">Certificate Numbering Authority (CNA)</a> and established a <a href="https://www.mautic.org/mautic-security-team" target="_blank">Security Team</a>,
         </li>
 
         <li>
-            Held our first <a href="https://www.mautic.org/blog/community/everything-you-need-know-about-mautic-community-sprint-online-6-7-april-2020" target="_blank">online sprint</a> with over 60 registrations and 40+ people making contributions including development, testing, documentation and marketing,
+            Implemented the <a href="https://www.mautic.org/blog/community/announcing-mautic-community-partners-program" target="_blank">Mautic Community Partners Program</a>,
         </li>
 
         <li>
-            Released our first major version in 2+ years - <a href="https://www.mautic.org/blog/community/mautic-3-building-stable-foundations" target="_blank">Mautic 3.0</a> - updating to support Symfony 3 and overhauling the codebase, with over 4,000 files being touches in the process - the biggest update in Mautic's lifetime!
+            Participated in <a href="https://www.mautic.org/blog/community/get-ready-fund-oss" target="_blank">FundOSS</a>,
         </li>
 
         <li>
-            <a href="https://www.mautic.org/blog/press/mautic-community-introduces-multiple-major-improvements" target="_blank">Welcomed Ruth Cheesley as full-time Project Lead</a> and introduced a time-based release cadence alongside several other significant improvements,
+            Made a major release - <a href="https://www.mautic.org/blog/community/mautic-4-standing-tall" target="_blank">Mautic 4.0</a> including a new email and landing page builder, Composer support in core, and Symfony 4 support,
         </li>
 
         <li>
-            Supported two <a href="https://www.mautic.org/blog/community/two-projects-selected-work-mautic-google-season-docs-project" target="_blank">Google Season of Docs projects</a>,
+            Completed our first <a href="https://www.mautic.org/blog/community/results-first-mautic-community-user-survey" target="_blank">Mautic Community User Survey</a>,
         </li>
 
         <li>
-            Held our first ever <a href="https://mauticon.mautic.org/" target="_blank">world conference</a> with over 300 registrations, six tracks running simultaneously throughout the day, 17 sponsors, 51 speakers and 65 sessions across seven languages!
-        </li>
-
-        <li>
-            Raised over $16,000 through our <a href="https://opencollective.com/mautic" target="_blank">Open Collective</a> and <a href="https://github.com/sponsors/mautic/">Github Sponsors</a>!
+            Announced our intention to start <a href="https://www.mautic.org/blog/community/giving-tuesday-mautic-backs-their-stack-support-open-source-projects-they-depend" target="_blank">backing our stack</a> and supporting our dependencies.
         </li>
     </ul>
 
@@ -87,21 +83,21 @@ showcase: |
         <ul class="list-unstyled">
             <li><b>All Day</b>: We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!
             </li>
-    <li><b>1100-1200</b>: 🇬🇧 Norman Pracht - why and how agencies should use marketing automation</li>
-    <li><b>1300-1400</b>: 🇬🇧 Dries Buytaert - Built to Last: Growing Sustainable Open Source Communities</li>
-    <li><b>1400-1500</b>: 🇬🇧 Steve Robinson - Maximizing Evergreen Content with Mautic</li>
-    <li><b>1600-1700</b>: 🇩🇪 Florian Wessels, Leon-Elias Oltmanns and Lamin Njie - Mautic und TYPO3 - Eine unsichtbare Verbindung</li>
-    <li><b>1800-1900</b>: 🇩🇪 Ekke Guembel: Online + Offline = beste Erfolgsrate. Postkarten in Mautic-Kampagnen</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
         </ul>
         </li>
         <li class="mt-2">
         <h4>Sunday</h4>
         <ul class="list-unstyled">
             <li><b>All Day</b>:  We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!</li>
-    <li><b>1100-1200</b>: 🇬🇧 József Keller - Be a Better Emailer</li>
-    <li><b>1300-1400</b>: 🇬🇧 Dominique De Cooman - Creating personalised digital experiences with Mautic</li>
-    <li><b>1600-1700</b>: 🇬🇧 Prateek Jain and Mohit Aghera - Building Personalised Chatbots With Mautic</li>
-    <li><b>1800-1900</b>: 🇬🇧 Lakshmi Narasimhan Parthasarathy & Jordan Ryan - High Availability Mautic</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
+    <li><b>TBC</b>: TBC</li>
         </ul>
         </li>
     </ul>
@@ -127,7 +123,7 @@ showcase: |
         </li>
     <br/>
        <li>
-            ➡️ We are looking for <strong>Angular</strong> and <strong>Symfony</strong> developers in addition to folk with <strong>UI/UX expertise</strong> to help with our <a href="https://mautic.atlassian.net/wiki/spaces/MI/pages/324436029/Mautic+Next+Generation" target="_blank">Next Generation project</a> - we are in the early stages of planning a major re-write Mautic on API Platform / Symfony 5 with a React front-end, optimised for scale and usability.  Watch <a href="https://www.youtube.com/watch?v=A8iW7LbRqtA" target="_blank">Alan Hartless' talk</a> for more details.
+            ➡️ We are looking for <strong>Angular</strong> and <strong>Symfony</strong> developers in addition to folk with <strong>UI/UX expertise</strong> to help with our <a href="https://mautic.atlassian.net/wiki/spaces/MI/pages/324436029/Mautic+Next+Generation" target="_blank">Next Generation project</a> - we are in the early stages of planning a major re-write Mautic on API Platform / Symfony 5 with a JS front-end, optimised for scale and usability.  Watch <a href="https://www.youtube.com/watch?v=A8iW7LbRqtA" target="_blank">Alan Hartless' talk</a> for more details.
         </li>
     </ul>
 ---
