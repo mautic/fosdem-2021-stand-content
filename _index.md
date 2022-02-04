@@ -81,23 +81,14 @@ showcase: |
         <li>
         <h4>Saturday</h4>
         <ul class="list-unstyled">
-            <li><b>All Day</b>: We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!
+            <li><b>All Day</b>: We are going to be available throughout the day to answer any questions and will be running a series of live demos and pre-recorded talks during the day.
             </li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
         </ul>
         </li>
         <li class="mt-2">
         <h4>Sunday</h4>
         <ul class="list-unstyled">
-            <li><b>All Day</b>:  We are going to be available throughout the day to answer any questions and will be running a series of live and pre-recorded talks on a range of topics!</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
-    <li><b>TBC</b>: TBC</li>
+            <li><b>All Day</b>:  We are going to be available throughout the day to answer any questions and will be running a series of live demos and pre-recorded talks on a range of topics!</li>
         </ul>
         </li>
     </ul>
@@ -116,6 +107,10 @@ showcase: |
     <br/>
         <li>
             ➡️ <a href="https://contribute.mautic.org/contributing-to-mautic">Become a contributor</a>
+        </li>
+    <br/>
+        <li>
+            ➡️ <a href="https://mautic.org/slack">💬 with us on Slack</a>
         </li>
     <br/>
         <li>
