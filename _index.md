@@ -39,23 +39,23 @@ chatroom: mautic
 logo: stands/mautic/logo.png
 new_this_year: |
 
-    Since FOSDEM 2021 Mautic managed to:
+    Since FOSDEM 2022 Mautic managed to:
 
     <ul>
         <li>
-           Held an online conference and our first ever in-person conference in <a href="https://www.mautic.org/blog/community/mautic-conference-europe-2021-our-first-person-conference" target="_blank">Hasselt, Belgium</a>,
+          Start running Open Source Friday contribution sprints which have been <a href="https://www.mautic.org/blog/community/mautic-agencies-sponsor-open-source-friday-community-sprints" target="_blank">very well supported</a>,
         </li>
 
         <li>
-            Became a <a href="https://www.mautic.org/blog/community/mautic-authorized-cve-numbering-authority-cna" target="_blank">Certificate Numbering Authority (CNA)</a> and established a <a href="https://www.mautic.org/mautic-security-team" target="_blank">Security Team</a>,
+            Shared our <a href="https://www.mautic.org/blog/community/mautic-community-roadmap-2022-23" target="_blank">first roadmap</a>,
         </li>
 
         <li>
-            Implemented the <a href="https://www.mautic.org/blog/community/announcing-mautic-community-partners-program" target="_blank">Mautic Community Partners Program</a>,
+            Released three minor versions, with work well underway for the next major release,
         </li>
 
         <li>
-            Participated in <a href="https://www.mautic.org/blog/community/get-ready-fund-oss" target="_blank">FundOSS</a>,
+            Held our first <a href="https://www.mautic.org/blog/community/mautic-developer-days-great-success" target="_blank">Developer Days event,
         </li>
 
         <li>
@@ -63,11 +63,11 @@ new_this_year: |
         </li>
 
         <li>
-            Completed our first <a href="https://www.mautic.org/blog/community/results-first-mautic-community-user-survey" target="_blank">Mautic Community User Survey</a>,
+           Won a <a href="https://www.mautic.org/blog/blog/announcing-technical-writer-google-season-docs-2022" target="_blank">grant from Season of Docs</a> to replatform and update our end-user documentation,
         </li>
 
         <li>
-            Announced our intention to start <a href="https://www.mautic.org/blog/community/giving-tuesday-mautic-backs-their-stack-support-open-source-projects-they-depend" target="_blank">backing our stack</a> and supporting our dependencies.
+            Organised an in-person community sprint <a href="https://www.mautic.org/blog/community/great-progress-made-during-mautic-community-sprint-budapest" target="_blank">in Budapest</a>.
         </li>
     </ul>
 
@@ -117,8 +117,5 @@ showcase: |
             ➡️ <a href="https://mautic.atlassian.net/wiki/spaces/MI/overview">Join one of our Strategic Initiative projects</a>
         </li>
     <br/>
-       <li>
-            ➡️ We are looking for <strong>Angular</strong> and <strong>Symfony</strong> developers in addition to folk with <strong>UI/UX expertise</strong> to help with our <a href="https://mautic.atlassian.net/wiki/spaces/MI/pages/324436029/Mautic+Next+Generation" target="_blank">Next Generation project</a> - we are in the early stages of planning a major re-write Mautic on API Platform / Symfony 5 with a JS front-end, optimised for scale and usability.  Watch <a href="https://www.youtube.com/watch?v=A8iW7LbRqtA" target="_blank">Alan Hartless' talk</a> for more details.
-        </li>
     </ul>
 ---
